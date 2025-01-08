@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hey 👋 I am Jahidul Islam. <br>🌟 Frontend Developer | Aspiring MERN Stack Developer | Passionate about Web Development</h1>
+<h3 align="left">Hey 👋 I am Jahidul Islam. <br>🌟 Frontend Developer | Aspiring MERN Stack Developer | Passionate about Web Development</h3>
 
 ###
 
